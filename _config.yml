@@ -1,0 +1,15 @@
+markdown: kramdown
+permalink: /:title/
+url: https://pmltips.github.io
+name: PMLTIPS
+author: PMLTIPS
+qq: 
+email: pmltips@gmail.com
+beian: 
+cnzz: 
+weibo: 
+resp: pmltips.github.io
+github: pmltips
+safe: true
+paginate: 20
+about: "这里是 PMLTIPS 的个人博客，欢迎观赏、建议、拍砖……"
